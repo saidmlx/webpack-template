@@ -1,0 +1,13 @@
+$font-color: #121212;
+$font-inverse-color: #F2F2F2;
+
+$color-background-color: #0BC8FF;
+
+body{
+    background-color: $color-background-color;
+}
+
+h1{
+    text-align: center;
+    color: $font-inverse-color;
+}
